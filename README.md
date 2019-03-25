@@ -95,7 +95,7 @@ SimpleRoundOnlyIconButton(
 ___
 ##Login Screens
 
-### Login Screen 1
+### Login Screen 1 
 
 ![Screenshots on Android and iOS](./screenshots/login_screen_1.png)
 
