@@ -10,7 +10,7 @@ A collection of Login Screens, Buttons and Loaders with attractive UIs, built wi
 
 ![Screenshots on iOS](./screenshots/loaders.gif)
 
-#### ColorLoaders
+#### ColorLoaders 
 
 | ![Screenshot](./screenshots/color_loader.gif) Color Loader 1 | ![Screenshot](./screenshots/color_loader_2.gif) Color Loader 2 | ![Screenshot](./screenshots/color_loader_3.gif) Color Loader 3 |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
